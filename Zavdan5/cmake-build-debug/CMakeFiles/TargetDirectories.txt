@@ -1,0 +1,3 @@
+D:/ynik/2 semenistr/prigrimiravanya/Zavdan5/cmake-build-debug/CMakeFiles/Zavdan5.dir
+D:/ynik/2 semenistr/prigrimiravanya/Zavdan5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ynik/2 semenistr/prigrimiravanya/Zavdan5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
